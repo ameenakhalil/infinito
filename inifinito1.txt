@@ -1,0 +1,2 @@
+https://portal.aws.amazon.com/billing/signup#/start
+https://git-scm.com/download/win
