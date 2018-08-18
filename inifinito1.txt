@@ -1,2 +1,6 @@
+Link to AWS console sign up
 https://portal.aws.amazon.com/billing/signup#/start
+To download GIT for windows : Steps to install are given in document I shared
 https://git-scm.com/download/win
+To download Putty
+https://www.ssh.com/ssh/putty/download
